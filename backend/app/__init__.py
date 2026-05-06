@@ -1,0 +1,1 @@
+"""AtlasTrip FastAPI backend."""

@@ -1,0 +1,10 @@
+Create a short Dubai itinerary focused on iconic sights, local food, waterfront areas, and efficient taxi or metro movement. Keep the schedule realistic for only two days and include indoor backups for hot weather.
+
+
+
+Budget: 700
+Days: 2
+Origin: Karachi
+Pace: balanced
+Hotel Style: budget
+Interests: Food, Culture, Shopping, Nightlife
